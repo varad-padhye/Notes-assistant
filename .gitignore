@@ -1,0 +1,9 @@
+.env
+gemini_key.txt
+.venv/
+venv/
+__pycache__/
+*.pyc
+.python-version
+*.swp
+policies/*.pdf
