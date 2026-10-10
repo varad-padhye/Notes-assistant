@@ -1,4 +1,4 @@
-# RAG-Powered Textbook Assistant
+# RAG-Powered Notes Assistant
 
 A command-line question-answering assistant that answers questions from
 textbooks supplied as PDFs. It retrieves relevant passages from a PostgreSQL
